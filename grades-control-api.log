@@ -1,0 +1,19 @@
+2020-08-05T21:15:24.225Z [grades-control-api] info: API Started!
+2020-08-05T21:29:13.530Z [grades-control-api] info: GET /grade/average/:subject/:type
+2020-08-05T21:29:58.108Z [grades-control-api] info: GET /grade/average/:subject/:type
+2020-08-05T21:31:24.046Z [grades-control-api] info: API Started!
+2020-08-05T21:31:52.750Z [grades-control-api] info: API Started!
+2020-08-05T21:31:56.433Z [grades-control-api] info: GET /grade/top3/:subject/:type
+2020-08-05T21:32:26.752Z [grades-control-api] info: API Started!
+2020-08-05T21:32:30.159Z [grades-control-api] info: GET /grade/top3/:subject/:type
+2020-08-05T21:35:16.478Z [grades-control-api] info: GET /grade/average/:subject/:type
+2020-08-05T21:35:53.106Z [grades-control-api] info: GET /grade/:student/:subject
+2020-08-05T21:40:00.678Z [grades-control-api] info: GET /grade/:student/:subject
+2020-08-05T21:40:54.801Z [grades-control-api] info: POST /grade - {"id":49,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-08-05T21:40:54.798Z"}
+2020-08-05T21:41:06.217Z [grades-control-api] info: GET /grade/:student/:subject
+2020-08-05T21:41:38.264Z [grades-control-api] info: GET /grade/:id
+2020-08-05T21:42:58.705Z [grades-control-api] info: PUT /grade - {"id":33,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Desafio","value":15}
+2020-08-05T21:43:43.675Z [grades-control-api] info: GET /grade/average/:subject/:type
+2020-08-05T21:44:08.037Z [grades-control-api] info: DELETE /grade/:id - 32
+2020-08-05T21:44:51.122Z [grades-control-api] info: GET /grade/average/:subject/:type
+2020-08-05T21:45:18.429Z [grades-control-api] info: GET /grade/:id
